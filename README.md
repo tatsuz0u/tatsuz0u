@@ -2,8 +2,7 @@
 
 ### Hello, World 👋
 
-- 🇯🇵 日本で暮らしたい
-- 🎨 UI・UXを学びたい
-- 📱 iOS開発者＆Appleファン
-- 🙍 恋愛したいけど好きな人ができない
-- 😸 小説・映画・ドラマ・マンガ・ゲーム好き
+- 🇯🇵 Want to live in Japan
+- 🎨 Want to learn UI & UX
+- 📱 iOS Developer & Apple Fan
+- 😸 Love Movie & Anime & Manga & Game
