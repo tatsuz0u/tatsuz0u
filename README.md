@@ -2,7 +2,7 @@
 
 ### Hello World 👋
 
+- 🎨 Want to learn UX
 - 🇯🇵 Want to live in Japan
-- 🎨 Want to learn UI & UX
 - 📱 iOS Developer & Apple Fan
 - 😸 Love Movie & Anime & Manga & Game
