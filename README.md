@@ -3,6 +3,5 @@
 ### Hello World 👋
 
 - 🎨 Want to learn UX
-- 🇯🇵 Want to live in Japan
 - 📱 iOS Developer & Apple Fan
 - 😸 Love Movie & Anime & Manga & Game
